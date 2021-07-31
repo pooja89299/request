@@ -1,0 +1,12 @@
+{
+        "id": "2385",
+        "parent_exercise_id": "2382",
+        "name": "Question 3",
+        "slug": "json__Questions/Question3",
+        "sequence_num": 3003,
+        "review_type": "peer",
+        "solution": null,
+        "content": "[{\"type\":\"markdown\",\"value\":\"Q.3 Python object ko json string mai convert karne ka program likho? \"}]",
+        "submission_type": "url",
+        "github_link": "https://github.com/navgurukul/newton/tree/master/json/Questions/Question3.md"
+}
